@@ -1,18 +1,32 @@
 # Authors
+Olnancy:
+  name        : "Anastasia-Olga (Olnancy) Tzirides"
+  bio         : "Learning Scientist | GenAI in Education | Learning Design & Educational Technology"
+  avatar      : "/assets/images/Tzirides_2024.jpg"
+  location    : "United States"
+  employer    : "University of Illinois"
+  email       : "aotzirides@gmail.com"
+  uri         : "https://aotzirides.web.illinois.edu/"
+  googlescholar: "https://scholar.google.com/citations?user=YOUR_ID"
+  linkedin    : "https://www.linkedin.com/in/anastasia-olga-olnancy-tzirides/"
+  orcid       : "https://orcid.org/0000-0002-8641-206X"
+  resume      : "/assets/files/CV_EdTech_Jan2026.pdf"
+  cv          : "/assets/files/Tzirides_CV_Academic_20Jan26.pdf"
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Name Name:
+#  name        : "Name Name"
+#  uri         : "https://name.com"
+#  email       : "name@name.com"
+#  bio         : "This is the first name."
+#  avatar      : "bio-photo-2.jpg"
+#  twitter     : "name"
+ # google_plus : "Name"
+
+#Name2 Name2:
+ # name        : "Name2 Name2"
+# email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+#  google_plus : "Name"
