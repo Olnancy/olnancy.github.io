@@ -26,16 +26,18 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. Anastasia-Olga (Olnancy) Tzirides is a Research Scientist at the University of Illinois Urbana-Champaign and Visiting Lecturer at the University of Illinois Chicago, with applied research experience at Google. Her work in the learning sciences explores the role of generative AI in education, with a focus on feedback, assessment, and multimodal language and culture learning."
+  bio              : "Learning Scientist | Educational Technologist | AI in Education"
   location         : #"Earth"
   employer         : "University of Illinois"
   uri              : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=7VeZ2T8AAAAJ&hl=en&authuser=1"
+  linkedin         : anastasia-olga-olnancy-tzirides
   email            : "aotzirides@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=7VeZ2T8AAAAJ&hl=en&authuser=1"
+  googlescholar    : # "https://scholar.google.com/citations?user=7VeZ2T8AAAAJ&hl=en&authuser=1"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/yourorcidurl"
@@ -66,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : anastasia-olga-olnancy-tzirides
+  linkedin         : # anastasia-olga-olnancy-tzirides
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
